@@ -15,3 +15,4 @@ Make sure to run the daemon as root (required to access the Raspberry Pi's GPIO 
 ```bash
 sudo python2 mqtt-dht.py &
 ```
+# dht22-mqtt-daemon
